@@ -24,7 +24,7 @@
  */
  app.get('/', (req, res) => {
   res.render('index', {
-    title: 'Wide World Importers',
+    title: 'Home',
   });
 });
 
